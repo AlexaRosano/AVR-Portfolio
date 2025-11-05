@@ -15,4 +15,4 @@ Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ult
 
 Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <a href="{{ "/cv/" | relative_url }}">CV</a>.
 
-[Download my Resume!]({{ "/assets/AVRosano-Resume-2025.pdf" | relative_url }}) in PDF format.
+[Download my Resume!]({{ "/assets/Resume.pdf" | relative_url }}) in PDF format.
