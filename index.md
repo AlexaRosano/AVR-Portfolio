@@ -15,9 +15,9 @@ Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ult
 
 <a href="torque-wrench-project.html">Torque Wrench Project</a>
 
-<a href="project1.html">Project 1</a>
+<a href="systemsdyn.html">Aircraft Final Report / System Dynamics</a>
 
-<a href="project1.html">Project 1</a>
+<a href="Fluidsvid.html">Fluid Machine Dissection</a>
 
 <a href="project1.html">Project 1</a>
 
