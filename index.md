@@ -19,8 +19,9 @@ Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ult
 
 <a href="Fluidsvid.html">Fluid Machine Dissection</a>
 
-<a href="project1.html">Project 1</a>
+<a href="HTP.html">MAE 3240 Heat Transfer</a>
 
 <a href="project1.html">Project 1</a>
+
 
 [Download my Resume]({{ "assets/Resume.pdf" | relative_url }})
